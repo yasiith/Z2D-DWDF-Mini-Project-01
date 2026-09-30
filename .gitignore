@@ -1,0 +1,13 @@
+# Local tooling / runtime output (never commit)
+logs/
+*.log
+.env
+.env.local
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+# NiFi runtime artefacts if NiFi is ever unpacked inside the repo
+nifi-*/

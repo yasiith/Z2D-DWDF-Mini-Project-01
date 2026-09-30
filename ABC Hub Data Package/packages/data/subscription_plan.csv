@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee,video_quality,max_devices,created_at,updated_at
+1,Basic,4.99,SD,1,2023-05-03 14:39:30,2023-05-03 14:39:30
+2,Standard,8.99,HD,2,2023-05-02 21:36:54,2023-05-02 21:36:54
+3,Premium,13.99,Full HD,4,2023-05-03 19:00:11,2023-05-03 19:00:11
+4,Family,17.99,4K,6,2023-05-02 07:03:25,2023-05-02 07:03:25
